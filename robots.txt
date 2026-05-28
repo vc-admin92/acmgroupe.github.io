@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acmgroupe.github.io/sitemap.xml
